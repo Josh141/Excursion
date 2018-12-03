@@ -1,0 +1,33 @@
+body {
+  background-color: Black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+.header-main {
+  color: White;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.header-two {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.header-sub-header {
+  font-size: 21px;
+  color: gray;
+}
+
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.footer {
+  text-align: right;
+  color: Gray;
+  font-size: 21px;
+}
